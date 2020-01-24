@@ -1,0 +1,12 @@
+{% set warenkorb = 50.0 %}
+{% set warenkorbMinimum = 50.0 %}
+{% if warenkorb >= warenkorbMinimum %}
+<div>
+  <p>Artikel 1</p>
+  <p>Artikel 2</p>
+</div>
+{% else %}
+<div>
+  <p>Noch Waren im Wert von {{warenkorbMinimum-warenkorb}} CHF bestellen um einen gratis Artikel zu erhalten</p>
+</div>
+{% endif %}

@@ -1,0 +1,19 @@
+{
+    "name"              : "FreeArticleWidget",
+    "namespace"         : "FreeArticleWidget",
+    "type"              : "widget",
+    "version"           : "0.0.1",
+    "pluginIcon"        : "",
+    "description"       : "A widget to add a free product to checkout",
+    "author"            : "Nicolas Andrea Almy - Hermex Trade",
+    "authorIcon"        : "",
+    "email"             : "",
+    "phone"             : "",
+    "serviceProvider"   : "FreeArticleWidget\\Providers\\FreeArticleWidgetServiceProvider",
+    "containers"        : [],
+    "dataProviders"     : [],
+    "javaScriptFiles"   : [],
+    "require"           : [],
+    "dependencies"      : [],
+    "runOnBuild"        : []
+}

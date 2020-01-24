@@ -1,0 +1,10 @@
+[
+  {
+    "identifier": "FreeArticleWidget::FreeArticleWidget",
+    "label": "Widget.freeArticleWidgetLabel",
+    "type": "default",
+    "categories": [],
+    "widgetClass": "FreeArticleWidget\\Widgets\\FreeArticleWidget",
+    "settings": {}
+  }
+]
