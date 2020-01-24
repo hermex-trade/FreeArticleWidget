@@ -5,6 +5,8 @@
     "type": "default",
     "categories": [],
     "widgetClass": "FreeArticleWidget\\Widgets\\FreeArticleWidget",
-    "settings": {}
+    "settings": {
+      "articles": ""
+    }
   }
 ]
