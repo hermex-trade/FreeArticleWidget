@@ -7,7 +7,7 @@
     "description"       : "A widget to add a free product to checkout",
     "author"            : "Nicolas Andrea Almy - Hermex Trade",
     "authorIcon"        : "",
-    "email"             : "",
+    "email"             : "nicolas.almy@gmail.com",
     "phone"             : "",
     "serviceProvider"   : "FreeArticleWidget\\Providers\\FreeArticleWidgetServiceProvider",
     "containers"        : [],
